@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384654558179",
+    "firebase_url": "https://studenthut-srm.firebaseio.com",
+    "project_id": "studenthut-srm",
+    "storage_bucket": "studenthut-srm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384654558179:android:c10ebbb4be5089035b16d6",
+        "android_client_info": {
+          "package_name": "com.example.studenthutsrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384654558179-g0boh76vo7lvnav390hl173prpkn1q62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studenthutsrm",
+            "certificate_hash": "c5aadb2914b640d80563493da9f282e3629e7ea2"
+          }
+        },
+        {
+          "client_id": "384654558179-s93h347od8gl24gks7hmc723m8s8j3a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx4MPih9aX031slTEjX_k6PvNL9p3iRPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384654558179-s93h347od8gl24gks7hmc723m8s8j3a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
